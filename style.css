@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+
+    background-image: url(images/umberto-jXd2FSvcRr8-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+.hero::before {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 700;
+    font-family: 'Michroma', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+p {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.btn {
+    font-family: 'Libertinus Keyboard', serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.btn:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+
