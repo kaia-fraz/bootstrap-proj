@@ -37,13 +37,9 @@ p {
     color: black;
     border: 2px solid black;
 }
-.row {
-    font-weight: 600;
-    font-size: 30px;
-}
 .container-rows {
     margin-top: 5px;
-    padding: 20px;
+    padding: 30px;
     color: rgb(255, 255, 255);
     border-width: 1px 0 1px 0;
     border-style: solid;
@@ -53,6 +49,20 @@ p {
     background-position: top;
     background-attachment: fixed;
 }
+.tro {
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.low {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+
+
 
 
 
