@@ -37,5 +37,22 @@ p {
     color: black;
     border: 2px solid black;
 }
+.row {
+    font-weight: 600;
+    font-size: 30px;
+}
+.container-rows {
+    margin-top: 5px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    border-width: 1px 0 1px 0;
+    border-style: solid;
+    border-color: white;
+    background-image: url(images/OPZOXF0.jpg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
 
 
