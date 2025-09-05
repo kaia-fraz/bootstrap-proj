@@ -61,6 +61,18 @@ p {
     margin-top: 0;
 }
 
+.footer-rows {
+    background-image: url(images/OPZOXF0.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.footer-cover {
+    background: rgba(0, 0, 0, 0.5);
+}
 
 
 
